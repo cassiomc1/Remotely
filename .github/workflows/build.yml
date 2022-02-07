@@ -110,7 +110,7 @@ jobs:
         # Comment out the below 'repository' line if you want to build from
         # your fork instead of the author's.
         # repository: cassiomc1/Remotely
-        # fetch-depth: 0
+         fetch-depth: 0
 
     # Test the Server URL to make sure it's valid
     - name: Check Server URL Format
